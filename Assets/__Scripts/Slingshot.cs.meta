@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 32a18f69ac127634b855e78bb0f344fa
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - projectilePrefab: {instanceID: 0}
+  - projLinePrefab: {instanceID: 0}
+  - bandMat: {instanceID: 0}
+  - bandSnapFX: {fileID: 8300000, guid: bd30550623a831e4bb9903acc7bba10a, type: 3}
+  - launchPoint: {instanceID: 0}
+  - projectile: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
